@@ -34,11 +34,14 @@ html, body{
       margin:0;
       background-color:#f6f6f6;
       box-sizing:border-box;
+      img{
+        width:230px;
+      }
     }
     figcaption{
       text-align: center;
       .img-title{
-        margin:10x 0;
+        margin:10px 0;
         color: #a7a0a2;
         font-size:16px;
       }
